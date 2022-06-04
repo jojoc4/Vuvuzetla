@@ -1,0 +1,29 @@
+{
+  "navigation-messages": "Nachrichten",
+  "navigation-tags": "Tags",
+  "navigation-profile": "Profil",
+
+  "composer-send-hint": "Eine Nachricht senden",
+  "composer-send": "Senden",
+
+  "profile-username": "Benutzername",
+  "profile-username-hint": "Dein Benutzername",
+  "profile-score": "Punktestand",
+  "profile-about-title": "Über",
+  "profile-about-1": "Mit Vuvuzetla können Sie Nachrichten versenden, die nur von Personen in Ihrer Nähe gelesen werden können.",
+  "profile-about-2": "Erstellt von jojoc4, Deltora und Dr. Suce",
+  "profile-about-3": "Gehostet bei host-free.ch",
+
+  "message-distance-text": "Die nächstgelegene Nachricht ist %s km entfernt",
+
+  "loading": "Laden",
+
+  "error-permission": "Bitte aktivieren Sie den Standort für diese App",
+
+  "error-network": "Fehler bei der Verbindung zum Server, bitte warten",
+  "error-msg": "Ihre Nachricht kann nicht gesendet werden, bitte versuchen Sie es erneut",
+  "error-state": "Fehler, bitte versuchen Sie es erneut",
+  "error-react": "Fehler, bitte versuchen Sie es erneut",
+  "error-react-own": "Sie können nicht auf Ihre eigenen Nachrichten reagieren",
+  "retry": "Retry"
+}

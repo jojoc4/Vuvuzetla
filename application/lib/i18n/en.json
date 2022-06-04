@@ -1,0 +1,29 @@
+{
+  "navigation-messages": "Messages",
+  "navigation-tags": "Tags",
+  "navigation-profile": "Profile",
+
+  "composer-send-hint": "Send a message",
+  "composer-send": "Send",
+
+  "profile-username": "Username",
+  "profile-username-hint": "Your username",
+  "profile-score": "Score",
+  "profile-about-title": "About",
+  "profile-about-1": "Vuvuzetla allows you to send messages that can only be read by people near you.",
+  "profile-about-2": "Created by jojoc4, Deltora and Dr Suce",
+  "profile-about-3": "Hosted by host-free.ch",
+
+  "message-distance-text": "The nearest message is at %s km",
+
+  "loading": "Loading",
+
+  "error-permission": "Please enable location for this app",
+
+  "error-network": "Error while connecting to server, please wait",
+  "error-msg": "Your message cannot be sent, please retry",
+  "error-state": "Error, please retry",
+  "error-react": "Error, please retry",
+  "error-react-own": "You cannot react to your own messages",
+  "retry": "Retry"
+}

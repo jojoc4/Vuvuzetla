@@ -1,0 +1,29 @@
+{
+  "navigation-messages": "Messaggi",
+  "navigation-tags": "Tags",
+  "navigation-profile": "Profilo",
+
+  "composer-send-hint": "Inviare un messaggio",
+  "composer-send": "Inviare",
+
+  "profile-username": "Nome utente",
+  "profile-username-hint": "Il tuo nome utente",
+  "profile-score": "Punteggio",
+  "profile-about-title": "Informazioni",
+  "profile-about-1": "Vuvuzetla ti permette di inviare messaggi che possono essere letti solo dalle persone vicine a te.",
+  "profile-about-2": "Creato da jojoc4, Deltora e Dr Suce",
+  "profile-about-3": "Ospitato da host-free.ch",
+
+  "message-distance-text": "Il messaggio più vicino è a %s km",
+
+  "loading": "Caricamento",
+
+  "error-permission": "Abilita la localizzazione per questa app",
+
+  "error-network": "Errore durante la connessione al server, attendere prego",
+  "error-msg": "Il tuo messaggio non può essere inviato, per favore riprova",
+  "error-state": "Errore, per favore riprova",
+  "error-react": "Errore, per favore riprova",
+  "error-react-own": "Non puoi reagire ai tuoi messaggi",
+  "retry": "Retry"
+}
